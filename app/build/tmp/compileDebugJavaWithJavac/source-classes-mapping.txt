@@ -1,0 +1,6 @@
+com/example/apirest_movil/databinding/ItemDogBinding.java
+ com.example.apirest_movil.databinding.ItemDogBinding
+com/example/apirest_movil/databinding/ActivityMainBinding.java
+ com.example.apirest_movil.databinding.ActivityMainBinding
+com/example/apirest_movil/BuildConfig.java
+ com.example.apirest_movil.BuildConfig

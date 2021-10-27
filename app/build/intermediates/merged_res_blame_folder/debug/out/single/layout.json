@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\apiRest_movil\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_dog.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\apiRest_movil\\app\\src\\main\\res\\layout\\item_dog.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\apiRest_movil\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\apiRest_movil\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
